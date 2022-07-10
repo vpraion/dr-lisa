@@ -8,7 +8,7 @@ const Bot = new Discord.Client(
             'GUILDS',
             'GUILD_MEMBERS',
             'GUILD_MESSAGES',
-            'GUILD_MESSAGE_REACTIONS'
+            'GUILD_MESSAGE_REACTIONS',
         ]
     }
 );
