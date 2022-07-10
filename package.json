@@ -1,0 +1,24 @@
+{
+  "name": "dr-lisa",
+  "version": "1.0.0",
+  "description": "A discord bot for my school group.",
+  "main": "./app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0x8BADC0DE/dr-lisa.git"
+  },
+  "author": "Vini PRAION",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0x8BADC0DE/dr-lisa/issues"
+  },
+  "homepage": "https://github.com/0x8BADC0DE/dr-lisa#readme",
+  "dependencies": {
+    "discord.js": "^13.8.1",
+    "dotenv": "^16.0.1",
+    "typescript": "^4.7.4"
+  }
+}
