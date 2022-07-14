@@ -20,7 +20,6 @@
     "cheerio": "^1.0.0-rc.12",
     "discord.js": "^13.8.1",
     "dotenv": "^16.0.1",
-    "request": "^2.88.2",
-    "typescript": "^4.7.4"
+    "request": "^2.88.2"
   }
 }
