@@ -25,4 +25,3 @@ Bot.on('message', (message: Discord.Message) => {
         }
     }
 });
-
